@@ -104,13 +104,13 @@ GitHub Copilot will recommend the appropriate code to carry out your request if 
 
 1. Navigate to View in your Visual studio and click on GitHub Copilot chat to open chat window.
 
-![alt text](image-7.png)
+![image](https://github.com/user-attachments/assets/430abfb8-6fb2-4371-b65a-25ec8a21e09a)
 
 2. Like below the chat will open
-![alt text](image-8.png)
+![image](https://github.com/user-attachments/assets/43769ea0-d422-45ec-848b-1f3ac718569c)
 
 3. You can start asking code related questions example `write a function to sum all numbers in a list` 
-![alt text](image-9.png)
+![image](https://github.com/user-attachments/assets/398d69c6-602a-4d3e-a7ac-14a79f953200)
 
 ### Slash commands in Copilot chat
 Use slash commands to avoid writing complex prompts for common scenarios. To use a slash command, type / in the chat prompt box, followed by a command. Slash commands include:
