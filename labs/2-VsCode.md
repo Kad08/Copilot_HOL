@@ -10,24 +10,26 @@ GitHub CoPilot is an AI Pair Programmer, from GitHub products.  supports the dev
 ## Installing the CoPilot Extension
 
 - From the Visual Studio Code Marketplace, search for GitHub CoPilot Extension and click on install.
+- 
+  ![image](https://github.com/user-attachments/assets/34c4528b-796b-4118-a524-07ede6497e53)
 
-  ![alt text](image.png)
 
 
 - After Installing the Extension, sign in with your GitHub Account for activating CoPilot
 
-  ![alt text](image-1.png)
+  ![image](https://github.com/user-attachments/assets/110794a4-fae8-4356-91df-2e780ae0d263)
 
-  ![alt text](image-2.png)
+  ![image](https://github.com/user-attachments/assets/ba5337ab-77f1-41dc-90d5-7e2779509953)
+
 - Sign in with your GitHub account which has been allocated with a CoPilot License
 
-  ![alt text](image-3.png)
+  ![image](https://github.com/user-attachments/assets/676691a8-7b52-42ca-b27f-06759d49d1af)
 
-  
 
 - Once Signed in, check if Copilot is activated
 
-  ![alt text](image-5.png)
+  ![image](https://github.com/user-attachments/assets/a41b16f7-bb15-4c27-8d39-1e39ce5b136f)
+
 
 ## Working with Copilot
 
