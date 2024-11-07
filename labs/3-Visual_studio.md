@@ -107,29 +107,34 @@ GitHub Copilot will recommend the appropriate code to carry out your request if 
 ![image](https://github.com/user-attachments/assets/430abfb8-6fb2-4371-b65a-25ec8a21e09a)
 
 2. Like below the chat will open
+
 ![image](https://github.com/user-attachments/assets/43769ea0-d422-45ec-848b-1f3ac718569c)
 
-3. You can start asking code related questions example `write a function to sum all numbers in a list` 
+3. You can start asking code related questions example `write a function to sum all numbers in a list`
+
 ![image](https://github.com/user-attachments/assets/398d69c6-602a-4d3e-a7ac-14a79f953200)
 
 ### Slash commands in Copilot chat
 Use slash commands to avoid writing complex prompts for common scenarios. To use a slash command, type / in the chat prompt box, followed by a command. Slash commands include:
 
 `/tests`: Generate unit tests for the selected code.  
+
 `/fix`: Propose a fix for problems in the selected code   
+
 `/explain`: Explain the selected code
+
 `/optimize`: Analyze and improve the runtime of the selected code
 
-To see all available slash commands, type / in the chat prompt box. See also Slash commands in the Visual Studio documentation. https://learn.microsoft.com/visualstudio/ide/copilot-chat-context#slash-commands
+To see all available slash commands, type `/` in the chat prompt box. See also Slash commands in the [Visual Studio documentation](https://learn.microsoft.com/visualstudio/ide/copilot-chat-context#slash-commands). 
 
 
 ### References
-By default, Copilot Chat will reference the file that you have open or the code that you have selected. You can also use # followed by a file name, file name and line numbers, or solution to reference a specific file, lines, or solution. For example:
+By default, Copilot Chat will reference the file that you have open or the code that you have selected. You can also use `#` followed by a file name, file name and line numbers, or solution to reference a specific file, lines, or solution. For example:
 
 Reference a specific file: `Where are the tests in #MyFile.cs?`
+
 Reference multiple files: `How are these files related #MyFile.cs #MyFile2.cs`
+
 Reference specific lines in a file: `Explain this function #MyFile.cs: 66-72?`
+
 Reference the current file: `Is there a delete method in this #solution`
-
-See also Reference in the Visual Studio documentation.
-
